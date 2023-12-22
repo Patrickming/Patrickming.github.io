@@ -1,21 +1,21 @@
-import logo from './logo.svg';
+import qkl from './qkl-logo.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={qkl} />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          欢迎来到cuit区块链产业学院
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://qkl.cuit.edu.cn/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit the website of College of Blockchain Industry
         </a>
       </header>
     </div>
